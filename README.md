@@ -1,8 +1,3 @@
-# spam-email-classifier
-Here’s a sample **README.md** file for your **Spam Email Classifier** project that you can upload to GitHub:
-
----
-
 # Spam Email Classifier
 
 This project is a **Spam Email Classifier** built using machine learning techniques. It classifies emails as either **spam** or **ham** (non-spam) based on the content of the email. The model is trained on a labeled dataset of emails and uses techniques like text preprocessing, feature extraction, and classification algorithms.
